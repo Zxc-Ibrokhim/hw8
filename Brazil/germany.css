@@ -1,0 +1,298 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #202c36;
+    font-family: Arial, sans-serif;
+}
+
+.Header_Website_Home_page {
+    height: auto;
+    background-color: #2b3844;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.header_website_right_h {
+    display: none;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    border-radius: 6px;
+    margin: 20px;
+    background: rgb(43, 56, 68);
+}
+
+.photo {
+    width: 100%;
+    height: auto;
+}
+
+.text {
+    padding: 20px;
+}
+
+.led {
+    color: white;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+.ul, .ledd {
+    margin-bottom: 10px;
+}
+    
+
+*{padding: 0;
+  margin: 0;
+  box-sizing: border-box;}
+   
+.karel{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10.55px;
+}
+.csss{
+
+    padding-top: 10px;
+    padding-bottom: 13px;
+}
+body {
+  color: white;
+    background-color: #202c36;
+  }
+  .Dark_Mode {
+    color: white;
+    text-align: left;
+    flex-wrap: nowrap;
+    
+    font-size: 16px;
+  }
+  .Header_Website_Home_page {
+    height: 80px;
+    background-color: #2b3844;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 23px 80px;
+    max-width: 100%;
+  
+  }
+  .header_website_right_h {
+    display: flex;
+    gap: 8px;
+  }
+  .Luna {
+    width: 20px;
+    height: 20px;
+  }
+  .div_texts{
+
+    width: 13.33px;
+    height: 13.33px;
+  }
+  .btn{
+    width: 136px;
+height: 40px;
+border-radius: 6px;
+margin-top: 80px;
+margin-left: 80px;
+box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.29);
+background: rgb(43, 56, 68);
+  }
+  .photo{
+width: 559px;
+height: 483px;
+padding-top: 84px;
+padding-left: 80px;
+
+  }
+  .text{
+position: absolute;
+left: 784px;
+right: 82px;
+top: 319px;
+bottom: 382px;
+  }
+  .div_texts1{
+    position: relative;
+    left: 0%;
+    right: 77.7%;
+    top: 0;
+    bottom: 284px;
+
+  }
+
+  .led{
+    padding-bottom: 28px;
+    color: white;
+    color: rgb(255, 255, 255);
+
+font-size: 32px;
+font-weight: 800;
+line-height: 44px;
+letter-spacing: 0px;
+text-align: left;
+  }
+ .ul{
+display: flex;
+flex-direction: column;
+color: rgb(255, 255, 255);
+
+font-size: 16px;
+font-weight: 300;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+ }
+ 
+ .lled{
+  position: relative;
+  color: rgb(255, 255, 255);
+font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 300;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+padding-left: 324px;
+right: -2.96%;
+
+bottom: 161px;
+ }
+ ul{
+  list-style: none;
+ }
+ .div_texts{
+  
+  width: 141px;
+  height: 35px;
+  
+ }
+ .div_texts{
+  display: flex;
+  color: rgb(255, 255, 255);
+ }
+ .div_texts{
+  display: flex;
+  color: rgb(255, 255, 255);
+font-family: Nunito Sans;
+font-size: 14px;
+font-weight: 300;
+line-height: 19px;
+gap: 10px;
+border-radius: 2px;
+
+
+ }
+ .sasha{
+  color: rgb(255, 255, 255);
+font-size: 14px;
+font-weight: 300;
+line-height: 19px;
+letter-spacing: 0px;
+  border-radius: 2px;
+  width: 96px;
+  height: 28px;
+box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.1);
+background: rgb(43, 56, 68);
+
+ }
+ .text4{
+  padding-top: 5px;
+width: 45px;
+height: 17px;
+  margin: 0 auto;
+ }
+
+ @media only screen and (max-width: 475px){
+
+  .Header_Website_Home_page{
+    max-width: 100%;
+    width: 375px;
+    align-items: start;
+    margin: 0 auto;
+    padding: 1px 1px ;
+    width: 475px;
+  }
+  .header_website_right_h{
+  
+    justify-content: start;
+    display: flex;
+   padding-top: 35px;
+   padding-bottom: 35px;
+  }
+  
+  .search{
+    margin: 0 auto;
+  width: 343px;
+  margin-bottom: 120px;
+  margin-top: 26px;
+  height: 48px;
+  
+  }
+  .images{
+    width: 137px;
+    padding-top: 35px;
+    padding-bottom: 30px;
+    padding-left: 16px;
+  }
+  .Luna{
+    width: 12px;
+    height: 11px;
+  
+  }
+  .Dark_Mode{
+    width: 64px;
+    height: 15px;
+    margin: 0 auto;
+    font-size: 12px;
+    
+  }
+.photo{
+  width: 349.84px;
+height: 300.92px;
+padding-top: 64px;
+margin: 0 auto;
+
+}
+
+.btn{
+  width: 104px;
+height: 32px;
+margin-top: 40px;
+margin-left: 28px;
+
+}
+.csss{
+ padding-bottom: 25px;
+}
+
+.karel{
+padding-bottom: 23px;
+}
+
+.div_texts1{
+  left: 28px;
+right: 259px;
+top: 489px;
+bottom: 470px;
+}
+
+.div_texts{
+  position: static;
+}
+
+
+.led{
+  padding-top: 23px;
+}
+ }
